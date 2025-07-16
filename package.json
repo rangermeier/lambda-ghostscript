@@ -1,15 +1,25 @@
 {
   "name": "lambda-ghostscript",
-  "version": "1.0.0",
+  "version": "10.05.1",
   "description": "Ghostscript for Lambda",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sina-masnadi/lambda-ghostscript.git"
+    "url": "git+https://github.com/rangermeier/lambda-ghostscript.git"
   },
   "author": "Sina Masnadi",
+  "contributors": [
+    {
+      "name": "Rupert Angermeier"
+    }
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sina-masnadi/lambda-ghostscript/issues"
+    "url": "https://github.com/rangermeier/lambda-ghostscript/issues"
   },
-  "homepage": "https://github.com/sina-masnadi/lambda-ghostscript#readme"
+  "homepage": "https://github.com/rangermeier/lambda-ghostscript#readme",
+  "files": [
+    "bin",
+    "share",
+    "package.json"
+  ]
 }
