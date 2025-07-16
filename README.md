@@ -2,7 +2,7 @@
 
 This repository contains a compiled version of Ghostscript which works with Amazon Web Services(AWS) Lambda.
 
-These binaries are based on Ghostscript 10.05.1
+These binaries are based on Ghostscript 10.02.0
 
 AWS Lambda is using an old version of Ghostscript which causes many issues. Lambda has the ability to use local libraries which can be packed inside the function archive, this repository can save you some time.
 

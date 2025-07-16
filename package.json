@@ -1,6 +1,6 @@
 {
   "name": "lambda-ghostscript",
-  "version": "10.05.1",
+  "version": "10.02.0",
   "description": "Ghostscript for Lambda",
   "repository": {
     "type": "git",
